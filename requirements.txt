@@ -10,4 +10,3 @@ seaborn==0.8.1
 s3fs==0.1.4
 sqlalchemy==1.2.4
 xlrd==1.1.0
-https://s3-us-west-2.amazonaws.com/ray-wheels/latest/ray-0.3.1-cp36-cp36m-macosx_10_6_intel.whl
